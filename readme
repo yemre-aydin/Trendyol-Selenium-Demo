@@ -15,14 +15,15 @@ Eklenen ürün favorilerden silinir ve silme işlemi kontrol edilir.
 Üye çıkış işlemi yapılır.
 
 
- Kullanılan Teknolojiler: Java 11, Maven, Junit 5, Cucumber, Lombok
+ Kullanılan Teknolojiler: Java 11, Maven, Junit Jupiter,Junit
 
-API Dökümantasyonu https://restful-booker.herokuapp.com/apidoc/
-
-Test Koşumu 1- Java 11 ve Maven kurulumlarını gerçekleştirin. 2- Projeyi indirerek Intellij ya da Eclipse yardımıyla açın. 3- Cihazınızda Terminal(Mac) ya da Console (Windows) uygulamasını açıp projenin ana klasörüne girin. 2- mvn clean test , yazarak komutu çalıştırın.
+API Dökümantasyonu https://petstore.swagger.io/v2/pet
 
 Intellij Üzerinden Test Koşumları
+Test Koşumu
+ 1- Java 11 ve Maven kurulumlarını gerçekleştirin.
+ 2- Projeyi indirerek Intellij ya da Eclipse yardımıyla açın.
+ 3- Cihazınızda Terminal(Mac) ya da Console (Windows) uygulamasını açıp projenin ana klasörüne girin.
+ 4- Run komutu ile testleri çalıştırın
 
-JunitDefault dosyasını bulun
-Sağ tıklayarak Run/Çalıştır seçeneğini seçin.
-Testler otomatik olarak çalışacaktır.
+

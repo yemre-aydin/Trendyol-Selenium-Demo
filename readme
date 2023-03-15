@@ -1,0 +1,28 @@
+Trendyol  Senaryosu
+
+Bu proje selenium java otomasyon örneği içermektedir.
+
+www.Trendyol.com sitesi açılır.
+Ana sayfanın açıldığı kontrol edilir.
+Siteye login olunur.
+Login işlemi kontrol edilir.
+Iphone kelimesi aranır.
+Iphone kelimesi aratıldığı kontrol edilir.
+Sayfadaki 3. ürün favorilere eklenir.
+Favorilerim sayfasına gidilir.
+“Favorilerim” sayfası açıldığı kontrol edilir.
+Eklenen ürün favorilerden silinir ve silme işlemi kontrol edilir.
+Üye çıkış işlemi yapılır.
+
+
+ Kullanılan Teknolojiler: Java 11, Maven, Junit 5, Cucumber, Lombok
+
+API Dökümantasyonu https://restful-booker.herokuapp.com/apidoc/
+
+Test Koşumu 1- Java 11 ve Maven kurulumlarını gerçekleştirin. 2- Projeyi indirerek Intellij ya da Eclipse yardımıyla açın. 3- Cihazınızda Terminal(Mac) ya da Console (Windows) uygulamasını açıp projenin ana klasörüne girin. 2- mvn clean test , yazarak komutu çalıştırın.
+
+Intellij Üzerinden Test Koşumları
+
+JunitDefault dosyasını bulun
+Sağ tıklayarak Run/Çalıştır seçeneğini seçin.
+Testler otomatik olarak çalışacaktır.
